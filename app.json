@@ -11,7 +11,7 @@
     },
     "RCLONE_DESTINATION": {
       "description": "Destination of rclone ( the format is -> CONFIG NAME:Folder destination )",
-      "value": "CONFIG NAME:Folder destination",
+      "value": "CONFIG NAME:Folder destination"
     }
   },
   "formation": {
