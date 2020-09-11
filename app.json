@@ -6,7 +6,7 @@
     "ARIA2C_SECRET": {
       "description": "AriaNg code"
     },
-    "RCLONE_CONFIGURATION": {
+    "RCLONE_CONFIG": {
       "description": "Configuration of rclone"
     },
     "RCLONE_DESTINATION": {
