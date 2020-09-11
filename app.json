@@ -10,7 +10,8 @@
       "description": "Configuration of rclone ( do not delete the config name -> [CONFIG NAME] )"
     },
     "RCLONE_DESTINATION": {
-      "description": "Destination of rclone ( the format is -> CONFIG NAME:Folder destination )"
+      "description": "Destination of rclone ( the format is -> CONFIG NAME:Folder destination )",
+      "value": "CONFIG NAME:Folder destination",
     }
   },
   "formation": {
