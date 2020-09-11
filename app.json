@@ -8,9 +8,6 @@
     },
     "RCLONE_CONFIGURATION": {
       "description": "Configuration of rclone"
-    },
-    "RCLONE_DESTINATION": {
-      "description": "Destination of rclone"
     }
   },
   "formation": {
