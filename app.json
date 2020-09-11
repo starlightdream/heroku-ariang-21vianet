@@ -5,6 +5,12 @@
   "env": {
     "ARIA2C_SECRET": {
       "description": "Secret code"
+    },
+    "RCLONE_CONFIG": {
+      "description": "Rclone configuration",
+    },
+    "RCLONE_DESTINATION": {
+      "description": "Destination with rclone",
     }
   },
   "formation": {
