@@ -1,16 +1,16 @@
 {
-  "name": "AriaNg",
+  "name": "AriAng 21vianet",
   "description": "A web for torrenting",
   "repository": "https://github.com/xinxin8816/heroku-ariang-21vianet",
   "env": {
     "ARIA2C_SECRET": {
-      "description": "AriaNg code"
+      "description": "AriaNg login code"
     },
     "RCLONE_CONFIG": {
-      "description": "Configuration of rclone"
+      "description": "Configuration of rclone ( do not delete the config name -> [CONFIG NAME] )"
     },
     "RCLONE_DESTINATION": {
-      "description": "Destination of rclone"
+      "description": "Destination of rclone ( the format is -> CONFIG NAME:Folder destination )"
     }
   },
   "formation": {
