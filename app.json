@@ -8,7 +8,7 @@
     },
     "RCLONE_CONFIG": {
       "description": "Configuration of rclone (  do not delete the config name -> [CONFIG NAME] )",
-      "value": "Use \n \ and n for linebreak" 
+      "value": "Use backslash and n for linebreak" 
     },
     "RCLONE_DESTINATION": {
       "description": "Destination of rclone ( the format is -> CONFIG NAME:Folder destination )",
