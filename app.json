@@ -4,13 +4,13 @@
   "repository": "https://github.com/xinxin8816/heroku-ariang-21vianet",
   "env": {
     "ARIA2C_SECRET": {
-      "description": "Secret code"
-    },
-    "RCLONE_CONFIG": {
-      "description": "Rclone configuration",
+      "description": "AriaNg code",
     },
     "RCLONE_DESTINATION": {
-      "description": "Destination with rclone",
+      "description": "Destination of rclone",
+    },
+    "RCLONE_CONFIGURATION": {
+      "description": "Configuration of rclone",
     }
   },
   "formation": {
