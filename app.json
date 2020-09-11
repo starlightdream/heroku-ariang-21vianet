@@ -8,7 +8,7 @@
     },
     "RCLONE_CONFIG": {
       "description": "Configuration of rclone (  do not delete the config name -> [CONFIG NAME] )",
-      "value": "[CONFIG NAME]\ntype=drive\nscope=drive\ntoken="
+      "value": "Use "\n "for linebreak" 
     },
     "RCLONE_DESTINATION": {
       "description": "Destination of rclone ( the format is -> CONFIG NAME:Folder destination )",
