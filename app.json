@@ -6,12 +6,12 @@
     "HEROKU_APP_NAME": {
       "description": "App link",
       "value": "App link",
-    }
+    },
    "ARIA2C_SECRET": {
       "description": "Secret code",
       "value": "Secret code",
     }
-  },
+  }
   "formation": {
     "web": {
       "amount": 1,
