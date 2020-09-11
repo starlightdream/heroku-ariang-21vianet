@@ -11,7 +11,7 @@
       "description": "Secret code",
       "value": "Secret code",
     }
-  }
+  },
   "formation": {
     "web": {
       "amount": 1,
